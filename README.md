@@ -34,7 +34,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Nabster2010/frontend-mentor-tip-calculator)
-- Live Site URL: [live site](https://nabster2010.github.io/frontend-mentor-time-tracking-dashboard/)
+- Live Site URL: [live site](https://gifted-boyd-7b5465.netlify.app/)
 
 ## My process
 
